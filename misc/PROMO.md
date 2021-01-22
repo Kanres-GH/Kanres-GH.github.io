@@ -12,7 +12,7 @@
 
 `clearText()`
 
-n3: derp
+n3: дап
 
 `publish("show_options_bottom")`
 
@@ -24,7 +24,7 @@ n3: derp
 
 `publish("intro-to-game-2")`
 
-n2: THIS IS A HUMAN
+n2: ЭТО ЧЕЛОВЕК
 
 (...600)
 
@@ -40,11 +40,11 @@ n2: THIS IS A HUMAN
 
 (...300)
 
-n: AND THIS IS THE HUMAN'S ANXIETY
+n: И ЭТО ТРЕВОГА ЧЕЛОВЕКА
 
-n: _YOU_ ARE THE ANXIETY
+n: _ТЫ_ И ЕСТЬ ТРЕВОГА
 
-[You're eating alone for lunch! Again!](#act1a_alone)
+[Ты обедаешь совсем одна! Снова!](#act1a_alone)
 
 [You're not productive while eating!](#act1a_productive)
 

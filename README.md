@@ -1,37 +1,37 @@
 ![](https://ncase.me/anxiety/sharing/banner.png)
 
-# [Play the interactive story here!](https://ncase.me/anxiety/)
+# [Сыграй в интерактивную историю!](https://ncase.me/anxiety/)
 
 ## Public Domain
 
-Nicky Case and Monplaisir hereby dedicate all their work for this game to the public domain, under [Creative Commons Zero](https://creativecommons.org/choose/zero/).
-That means: you can remix and reuse *any* of the original art / code / music in this game for *any* purpose, even commercial use!
+Nicky Case и Monplaisir таким образом посвящают всю их работу для общественного достояния, под [Creative Commons Zero](https://creativecommons.org/choose/zero/).
+Это значит: вы можете переиспользовать и изменять *любой* оригинальный код / музыку / изображения для *любых* нужд, даже в коммерческих целях!
 
-**Q:** Do I have to give attribution?    
-**A:** You're not *legally* required to, but it's highly appreciated! <3
+**Q:** Должен ли я указывать авторство?   
+**A:** *Легально* вы не обязаны, но это очень высоко ценится! <3
 
-**Q:** Legally speaking, can I claim *I* made this?    
-**A:** Yes, the same way you're legally allowed to claim to have written Mary Shelley's Frankenstein, or claim you have 13 nipples.
+**Q:** С точки зрения легальности, могу ли я утверждать, что *я* это сделал?    
+**A:** Да, точно так же, как вам легально можно утверждать, что вы написали "Франкенштейна", или утверждать, что у вас 13 сосков.
 
-**Q:** Can I post this game on other sites?    
-**A:** Maybe. Though it's completely legal copyright-wise, many sites have their own policies against posting other people's public domain/open source work *without* significant modifications. (But if it's your own site, then by all means, please mirror this game!)
+**Q:** Могу ли я запостить эту игру на других сайтах?   
+**A:** Возможно. Хотя это полностью законно с точки зрения авторского права, многие сайты имеют свою собственную политику против размещения чужих работ в открытом доступе/с открытым исходным кодом *без* существенных изменений. (Но если это ваш собственный сайт, то ради всего святого, можете разместить эту игру!) 
 
-**Q:** Can I sell a port of this game?    
-**A:** Yes! But to avoid confusion, I recommend labeling your game as "Fan-Made Port", and *link to this statement saying I'm explicitly allowing commercial remixes*. (Example: [a Steam port of another one of my games!](https://store.steampowered.com/app/1103210/We_Become_What_We_Behold_FanMade_Port/)) This is to avoid accusations of theft from folks who weren't aware I always open-source + public-domain my projects.
+**Q:** Могу ли я продавать порт этой игры?  
+**A:** Да! Но чтобы избежать путаницы, я рекомендую маркировать вашу игру как "Фанатский порт" и *ссылаться на это заявление, говоря, что я явно разрешаю коммерческие ремиксы*. (Пример: [Steam-порт одной из моих других игр!](https://store.steampowered.com/app/1103210/We_Become_What_We_Behold_FanMade_Port/)) Это делается для того, чтобы избежать обвинений в краже от людей, которые не знали, что я всегда открываю исходный код + публикую свои проекты в открытом доступе.
 
-**Q:** Can I turn this game into a dating sim between the human and wolf?   
-**A:** uh
+**Q:** Могу ли я превратить эту игру в симулятор свиданий между человеком и волком? 
+**A:** ам...
 
 
-## Full Credits
+## Полные титры
 
-Art / Code / Writing by [Nicky Case](https://ncase.me/)
+Арт / Код / Написан [Nicky Case](https://ncase.me/)
 
-Music by [Monplaisir](https://loyaltyfreakmusic.com)
+Музыка от [Monplaisir](https://loyaltyfreakmusic.com)
 
-Extra code by [Spacie](https://spacie.me)
+Дополнительный код от [Spacie](https://spacie.me)
 
-**Sound Effects from FreeSound.org (Creative Commons)**
+**Звуковые эффекты из FreeSound.org (Creative Commons)**
 
 * [Intro Scream](https://freesound.org/people/analogchill/sounds/35716/) by MaderaDelEste Films
 * [Dramatic Hit](https://freesound.org/people/qubodup/sounds/222517/) by qubodup
@@ -81,7 +81,7 @@ Extra code by [Spacie](https://spacie.me)
 * [Bottle on Concrete](https://freesound.org/people/13GPanska_Gorbusinova_Anna/sounds/377986/) by 13GPanska\_Gorbusinova\_Anna
 * [Cartoon Running](https://freesound.org/people/Mountain852/sounds/365830/) by Mountain852
 
-**Sound Effects from Kenney.nl (All Creative Commons Zero)**
+**Звуковые эффекты из Kenney.nl (All Creative Commons Zero)**
 
 * [Digital Audio Pack](https://kenney.nl/assets/digital-audio)
 * [RPG Audio Pack](https://kenney.nl/assets/rpg-audio)
