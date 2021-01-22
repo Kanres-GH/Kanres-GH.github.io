@@ -206,7 +206,7 @@ b: Человек! Слушай, мы в опасности! Опасность 
 
 `bb({body:"squeeze"})`
 
-n4: (LET _YOUR_ ANXIETY COME OUT TO PLAY! PICK WHAT'S MOST SIMILAR TO WHAT _YOUR_ FEAR TELLS YOU)
+n4: (ПОЗВОЛЬ _ТВОЕЙ_ ТРЕВОГЕ СЫГРАТЬ! ВЫБЕРИ ТО, ЧТО ГОВОРИТ ТЕБЕ ГОВОРИТ _ТВОЙ_ СТРАХ)
 
 (#act1_normal_choice)
 
