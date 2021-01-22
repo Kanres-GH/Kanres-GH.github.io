@@ -94,13 +94,13 @@ _.PLAYED_BEFORE = !!window.localStorage.continueChapter;
 
 n3: Добро пожаловать! Это не то, что бы "игра", скорее интерактивная история. Надеюсь вам нравится читать :)
 
-n3: So before we start, how would *you* like to read? Но перед тем как начнём, как *вам* хотелось бы читать?
+n3: Но перед тем как начнём, как *вам* хотелось бы читать?
 
 `publish("show_options_bottom")`
 
 # intro-start-2
 
-n3: Great! Note: you can always change options with the ⚙ icon below. Also, game auto-saves at each chapter! Отлично! Заметьте: вы всегда можете изменить настройки 
+n3: Отлично! Заметьте: вы всегда можете изменить параметры с помощью значка ⚙ ниже. Также игра автоматически сохраняется в каждой главе!
 
 n3: Теперь давайте начнём нашу историю...
 
