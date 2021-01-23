@@ -23,14 +23,14 @@
 publish("act2",["dee",3]);
 ```
 
-s: But did you *see* that "news story" about that horrible thing happening somewhere?
+s: Но ты *видел* ту "новость" о той ужасной вещи, что где-то произошла?
 
 ```
 publish("act2",["dee",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: h-hi...
+h2: П-привет...
 
 ```
 publish("act2",["party_hunter",1]);
@@ -38,14 +38,14 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",3]);
 ```
 
-a: God I hate the news. It's all sensationalism and clickbait.
+a: Боже, как же я ненавижу новости. Это всё сенсационализм и кликбейт.
 
 ```
 publish("act2",["dum",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: n... nice party...
+h2: К... клёвая вечеринка...
 
 ```
 publish("act2",["party_hong","next"]);
@@ -53,13 +53,13 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",1]);
 ```
 
-s: True, but they're just following incentives. The *real* problem is people who click the clickbait.
+s: Это так, но они просто следуют инстинктам. *Настоящая* проблема в людях, которые ведутся на кликбейты.
 
 ```
 publish("act2",["dee",3]);
 ```
 
-s: Who would retweet a terrible news story, and make all their friends feel bad?
+s: Кто вообще ретвитнет эту ужасную новость и заставит всех своих друзей чувствовать себя плохо?
 
 ```
 publish("act2",["party_hunter",1]);
@@ -67,7 +67,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: И не Ёвори!
 
 (#act2-preamble-end)
 
@@ -78,14 +78,14 @@ a: Ugh, I know right?
 publish("act2",["dee",3]);
 ```
 
-s: But did you *see* that "news story" going viral?
+s: Но ты *видел*, что эта "новость" становится вирусной?
 
 ```
 publish("act2",["dee",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: h-hi...
+h2: П-привет...
 
 ```
 publish("act2",["party_hunter",1]);
@@ -93,14 +93,14 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",3]);
 ```
 
-a: Yeah, totally fake. Who would fall for that and retweet it?
+a: Yeah, totally fake. Who would fall for that and retweet it? Ага, абсолютная брехня. Кто вообще поверит и ретвитнет это?
 
 ```
 publish("act2",["dum",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: n... nice party...
+h2: К... клёвая вечеринка...
 
 ```
 publish("act2",["party_hong","next"]);
@@ -108,7 +108,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Seriously dude. Like, hello, open up Google and factcheck first?
+s: Ну серьёзно, чувак. Просто погуглить и хотя бы проверить факты?
 
 ```
 publish("act2",["party_hunter",1]);
@@ -116,7 +116,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: И не Ёвори!
 
 (#act2-preamble-end)
 
@@ -127,14 +127,14 @@ a: Ugh, I know right?
 publish("act2",["dee",3]);
 ```
 
-s: Like I was saying, the Meme Industrial Complex exploits cats.
+s: Как я уже Ёворил, Индустриальный Мемный Комплекс эксплуатирует кошек.
 
 ```
 publish("act2",["dee",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: h-hi...
+h2: П-привет...
 
 ```
 publish("act2",["party_hunter",1]);
@@ -142,14 +142,14 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",1]);
 ```
 
-a: Elaborate on this thesis.
+a: Обоснуй этот тезис.
 
 ```
 publish("act2",["dum",0]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: n... nice party...
+h2: К... клёвая вечеринка...
 
 ```
 publish("act2",["party_hong","next"]);
@@ -157,13 +157,13 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",1]);
 ```
 
-s: Well, I saw someone retweet a GIF of a cat drinking milk yesterday.
+s: Ну, я видел вчера, как кто-то ретвитнул GIF-ку с кошкой, которая пьёт молоко.
 
 ```
 publish("act2",["dee",3]);
 ```
 
-s: They can't digest that ^crap^! Who would retweet *animal abuse* like that?
+s: Они же не переваривают это ^дерьмо^! Кто мог ретвитнуть такое *жестокое обращение с животными*?
 
 ```
 publish("act2",["party_hunter",1]);
@@ -171,7 +171,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: И не Ёвори!
 
 (#act2-preamble-end)
 
@@ -182,14 +182,14 @@ a: Ugh, I know right?
 publish("act2",["dee",1]);
 ```
 
-s: So yeah they never replied back!
+s: ...И они так и не ответили!
 
 ```
 publish("act2",["dee",0]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: h-hi...
+h2: П-привет...
 
 ```
 publish("act2",["party_hunter",1]);
@@ -197,14 +197,14 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",1]);
 ```
 
-a: Even though you both matched each other on Tinder?
+a: Даже несмотря на то, что вы оба совпали в Tinder?
 
 ```
 publish("act2",["dum",0]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: n... nice party...
+h2: К... клёвая вечеринка
 
 ```
 publish("act2",["party_hong","next"]);
@@ -229,7 +229,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Yeah I dunno! What, did they think I was a *serial killer* or something? So paranoid.
+s: Да я не знаю! Они что, думают, что я *серийный убийца* или что-то в этом духе? Параноики.
 
 ```
 publish("act2",["party_hunter",1]);
@@ -237,7 +237,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: И не Ёвори!
 
 (#act2-preamble-end)
 
@@ -249,9 +249,9 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Yeah I dunno! Maybe they think hookups can't fill the hole in their heart?
+s: Да я не знаю! Может, они думают, что секс-знакомства не могут заполнить их дыру в сердце?
 
-s: Stop being such a prude! Open your mind, then open your legs!
+s: Не будь ханжой! Открой свой разум, затем раздвигай свои ноги!
 
 ```
 publish("act2",["party_hunter",1]);
@@ -259,7 +259,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: И не Ёвори!
 
 (#act2-preamble-end)
 
@@ -271,7 +271,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Yeah I dunno! They weren't that hot, but they would have been a nice catch!
+s: Да я не знаю! Они не так Ёрячи, но они были бы хорошим уловом!
 
 ```
 publish("act2",["party_hunter",1]);
@@ -279,7 +279,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Gotta Catch 'Em All!™
+a: Поймай их всех!™
 
 (#act2-preamble-end)
 
@@ -300,27 +300,27 @@ publish("hp_show");
 bb({body:"normal", mouth:"normal", eyes:"normal"});
 ```
 
-n: ROUND TWO: *FIGHT!*
+n: РАУНД ДВА: *БОЙ!*
 
-[Oh no they all hate us!](#act2a_social)
+[О нет, они все нас ненавидят!](#act2a_social)
 
-[Were you *ogling* the redhead?](#act2a_perv)
+[Ты *глазеешь* на рыжеволосых?](#act2a_perv)
 
-[Hey, let's talk about the meaning of life.](#act2a_meaning)
+[Эй, давай поЁворим о смысле жизни.](#act2a_meaning)
 
 # act2a_social
 
 `bb({eyes:"sad"})`
 
-b: We're bringing down the mood of this party by being such a sad lump!
+b: Мы портим всем вечеринку, будучи таким грустным болваном!
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: We're killing the good vibes! We're committing first-degree vibe-murder!
+b: Мы убиваем настроение! Мы совершаем убийство первой степени!
 
 `bb({eyes:"normal", body:"normal"})`
 
-b: Human, we have to leave *now* before--
+b: Человек, мы должны уйти *прямо сейчас*, прежде чем--
 
 ```
 _.a2_first_danger = 'social';
@@ -333,15 +333,15 @@ _.a2_attack_1 = "alone";
 
 `bb({eyes:"suspect"})`
 
-b: They're more attractive than us, which means if we even *look* at them, then--
+b: Они более привлекательны, чем мы, а это значит, что даже если мы *посмотрим* на них, то--
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: WE'RE CREEPS
+b: МЫ ОТВРАТИТЕЛЬНЫ
 
 `bb({body:"normal"})`
 
-b: We're creepy, evil, bad bad bad terrible terrible perv--
+b: Мы отвратительные, злые, плохие плохие плохие ужасные извр--
 
 ```
 _.a2_first_danger = 'perv';
@@ -354,31 +354,33 @@ _.a2_attack_1 = "bad";
 
 `bb({body:"one_up", eyes:"normal_r"})`
 
-b: At the end of it all, what can we possibly do that really matters? 
+b: В конце концов, что мы можем сделать, чтобы это действительно имело значение?
 
 `bb({body:"normal", eyes:"sad"})`
 
-b: Contribute to humanity? All great works decay the way of Ozymandias. Love? Death will always do it part.
+b: Помочь человечеству? Все великие произведения разлагают путь Озимандия. Любовь? Смерть всегда сыграет свою роль.
 
 `bb({eyes:"sad_r"})`
 
-b: And how much death there is! *We* will die. *Our loved ones* will die.
+b: И сколько смертей! *Мы* умрем. *Наши любимые* умрут.
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: Heck, the Second Law of Thermodynamics means even our *universe* will die!
+b: Чёрт, да даже Второй Закон Термодинамики утверждает, что даже наша *вселенная* умрёт!
 
 `bb({eyes:"suspect", body:"normal"})`
 
-b: Oh, "death makes us appreciate life"? That's like saying slavery is good because it makes us appreciate freedom!
+b: О, "смерть заставляет нас ценить жизнь"? 
+
+b: Всё равно что Ёворить, что рабство - это хорошо, потому что оно заставляет нас ценить свободу!
 
 `bb({body:"one_up"})`
 
-b: Oh, "you need to make your own meaning"? That's what cultists and conspiracy theorists do!
+b: О, "тебе нужно создать свой собственный смысл"? Это то, что делают культисты и теоретики заЁворов!
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: Life has no meaning, death has no meaning, even *meaning* has no meaning! What is a mortal soul supposed to--
+b: В жизни нет смысла, в смерти нет смысла, даже в *смысле* нет смысла! Что смертная душа должна--
 
 ```
 _.a2_first_danger = 'meaning';
@@ -395,7 +397,7 @@ b: ...
 
 `bb({eyes:"suspect"})`
 
-b: Um... can you hear me, human?
+b: Эм... человек, ты меня слышишь?
 
 `bb({eyes:"normal", MOUTH_LOCK:true})`
 
@@ -403,23 +405,23 @@ b: ...
 
 `bb({eyes:"shock", mouth:"small_talk", body:"chest", MOUTH_LOCK:true})`
 
-b: *GASP*
+b: *Вздох*
 
 `bb({mouth:"small_talk"})`
 
-b: I MUST WARN YOU ABOUT...
+b: Я ДОЛЖЕН ПРЕДУПРЕДИТЬ ТЕБЯ...
 
-[*More* of the same danger!](#act2b_louder)
+[О той же *большей* опасности!](#act2b_louder)
 
 {{if _.a2_first_danger=="social"}}
-[A *different* social danger!](#act2b_different_social)
+[О *друЁй* социальной опасности!](#act2b_different_social)
 {{/if}}
 
 {{if _.a2_first_danger=="perv" || _.a2_first_danger=="meaning"}}
-[A *different* moral danger!](#act2b_different_moral)
+[О *друЁй* моральной опасности!](#act2b_different_moral)
 {{/if}}
 
-[You're ignoring danger! That's dangerous!](#act2b_ignore)
+[Ты игнорируешь опасность! Это опасно!](#act2b_ignore)
 
 # act2b_louder
 
@@ -441,13 +443,13 @@ b: I MUST WARN YOU ABOUT...
 
 `bb({eyes:"shock", body:"two_up", mouth:"normal"})`
 
-b: EMOTIONS ARE CONTAGIOUS! SO IF YOU DON'T LEAVE YOU'LL INFECT EVERYONE WITH YOUR MENTAL ILLNESS! 
+b: ЭМОЦИИ ЗАРАЗИТЕЛЬНЫ! ЕСЛИ ТЫ НЕ УСПОКОИШЬСЯ, ТО ЗАРАЗИШЬ ВСЕХ СВОИМИ ПСИХИЧЕСКИМИ ЗАБОЛЕВАНИЯМИ!
 
-b: You'll create a deadly outbreak of SAD LUMP SYNDROME
+b: Ты создаёшь смертельную вспышку СИНДРОМА ГРУСТНОЁ КОМОЧКА
 
 `bb({eyes:"suspect", body:"normal", mouth:"normal"})`
 
-b: We need to get out of here and quarantine ourselves forever in a small room with Netflix and food delivery!
+b: Нам нужно убираться отсюда и навсегда изолировать себя в маленькой комнате с Netflix и доставкой еды!
 
 ```
 _.a2_second_danger = 'netflix';
@@ -461,7 +463,7 @@ _.a2_hoodie_callback = "a quarantine";
 
 `bb({eyes:"suspect", body:"two_up", mouth:"normal"})`
 
-b: DON'T BE A CREEP. IT'S AGAINST THE LAW!
+b: НЕ БУДЬ ОТВРАТИТЕЛЬНЫМ. ЭТО ПРОТИВОЗАКОННО!
 
 `bb({eyes:"judge", body:"judge_1", mouth:"normal"})`
 
@@ -486,11 +488,13 @@ sfx("gravel");
 
 (...501)
 
-b: Creep Law, Section 74.5: (1) Any Person who checks out (a) those muscular shoulders (b) that bubble booty (2) shall be hereby known as
+b: Закон об отвратительности, пункт 74.5:
+
+b: (1) Любое Лицо, которое обращает внимание на (а) мускулистые плечи, (б) пышные формы (2) должно быть идентифицировано как
 
 `bb({eyes:"shock", body:"two_up", mouth:"normal"})`
 
-b: "A BIG DISGUSTING TRASH PERVERT"
+b: "БОЛЬШОЙ И ОТВРАТИТЕЛЬНЫЙ ИЗВРАЩЕНЕЦ"
 
 ```
 _.a2_second_danger = 'law';
@@ -504,23 +508,25 @@ _.a2_hoodie_callback = "the law";
 
 `bb({body:"two_up", mouth:"normal", eyes:"shock"})`
 
-b: Actually, even if you find a noble purpose in life, you can *still* mess everything up!
+b: На самом деле, даже если ты найдёшь блаЁродную цель в жизни, ты *всё равно* можешь всё испортить!
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"})`
 
-b: Alfred Nobel wanted world peace and for cultures to understand each other. So he decided to make travel easier.
+b: Альфред Нобель хотел мира во всем мире, чтобы культуры понимали друг друга. Поэтому он решил сделать путешествия проще.
 
 `bb({eyes:"normal_r"})`
 
-b: So he needed a way to cheaply create train tunnels. So he invented a new material called "dynamite"...
+b: Поэтому ему нужен был дешёвый способ создания железнодорожных туннелей.
+
+b: Поэтому он изобрел новую штуку под названием "динамит"...
 
 `bb({body:"one_up", eyes:"normal"})`
 
-b: which was used in World War I to KILL MILLIONS OF PEOPLE
+b: ...который использовался в Первой Мировой Войне для УБИЙСТВ МИЛЛИОНОВ ЛЮДЕЙ
 
 `bb({body:"two_up", eyes:"shock"})`
 
-b: IT'S THE BUTTERFLY EFFECT, HUMAN! HOW MANY PEOPLE ARE YOU ACCIDENTALLY KILLING RIGHT NOW
+b: ЭТО ЭФФЕКТ БАБОЧКИ, ЧЕЛОВЕК! СКОЛЬКО ЛЮДЕЙ ТЫ СЛУЧАЙНО УБИВАЕШЬ ПРЯМО СЕЙЧАС
 
 ```
 _.a2_second_danger = 'butterfly';
@@ -536,19 +542,19 @@ _.a2_hoodie_callback = "World War I";
 
 `bb({eyes:"normal_r", body:"point", mouth:"normal"})`
 
-b: Actually, you know what's worse than no-one liking you? *Everyone* liking you.
+b: А хотя, знаешь, что хуже, чем то, что никто тебя не любит? Когда *все* тебя любят.
 
 `bb({body:"one_up", eyes:"suspect", mouth:"normal"})`
 
-b: That is, becoming one of *these* pleasure-chasing party animals.
+b: То есть, становясь одним из *этих* охочих до развлечений тусовщиков.
 
 `bb({body:"normal", mouth:"small"})`
 
-b: A shallow life with shallow friends who only know the shallow you!
+b: Мелочная жизнь с мелочными друзьями, которые знают только мелочноЁ тебя!
 
 `bb({body:"two_up", eyes:"shock", mouth:"normal"})`
 
-b: Human, we need to run away from these pleasure-zombies before they turn us into one of them!
+b: Человек, нам нужно бежать от этих зомби, прежде чем они превратят нас в одноЁ из них!
 
 ```
 _.a2_second_danger = 'zombies';
@@ -564,19 +570,19 @@ _.a2_hoodie_callback = "zombies";
 
 `bb({body:"two_up", eyes:"shock", mouth:"normal"})`
 
-b: People are dying in famines and genocides *right now* and we're just partying!
+b: Люди гибнут от Ёлода и геноцида *прямо сейчас*, а мы просто развлекаемся!
 
 `bb({body:"point", eyes:"closed", mouth:"small"})`
 
-b: A wise person once said, "the only thing necessary for the triumph of evil is for good folks to do nothing."
+b: Один мудрец однажды сказал, что "единственное, что необходимо для победы зла - это чтобы добрые люди ничеЁ не делали".
 
 `bb({body:"two_up", eyes:"shock", mouth:"normal"})`
 
-b: WE'RE DOING NOTHING.
+b: МЫ НИЧЕЁ НЕ ДЕЛАЕМ.
 
 `bb({mouth:"small"})`
 
-b: BY PARTYING, WE'RE HELPING *HITLER*.
+b: РАЗВЛЕКАЯСЬ, МЫ ПОМОГАЕМ *ГИТЛЕРУ*.
 
 ```
 _.a2_second_danger = 'hitler';
@@ -592,15 +598,15 @@ _.a2_hoodie_callback = "Hitler";
 
 `bb({body:"normal", mouth:"normal", eyes:"suspect"})`
 
-b: You think you're safe just because you took the batteries out of the carbon monoxide detector?
+b: Думаешь, ты в безопасности только потому, что вынул батареи из детектора угарноЁ газа?
 
 `bb({eyes:"suspect_r"})`
 
-b: You won't even smell the poison! You'll just get sleepy and then you'll--
+b: Ты даже не унюхаешь газ! Ты просто уснёшь и затем ты--
 
 `bb({body:"scream_c_1"})`
 
-b: DIEEEEEEEEEEEEEEEEEE
+b: УМРЁЁЁЁЁЁЁЁЁЁЁЁЁЁЁШЬ
 
 ```
 _.a2_second_danger = 'ignore';
@@ -621,29 +627,29 @@ b: ...
 
 `bb({eyes:"happy", mouth:"smile", body:"chest"})`
 
-b: Oh thank goodness human, I think you can hear me again!
+b: О, слава богу, человек, думаю, ты снова меня слышишь!
 
 `bb({eyes:"closed", body:"point"})`
 
-b: I SHALL WARN YOU ABOUT...
+b: I SHALL WARN YOU ABOUT... Я ДОЛЖЕН ПРЕДУПРЕДИТЬ ТЕБЯ О...
 
 {{if _.a2_first_choice=="louder"}}
-[*Even more* of the same danger!](#act2c_louder)
+[*Ещё большей* той же опасности!](#act2c_louder)
 {{/if}}
 
 {{if _.a2_first_choice!="louder"}}
-[*More* of the same danger!](#act2c_louder)
+[*Большей* той же опасности!](#act2c_louder)
 {{/if}}
 
 {{if _.a2_first_danger=="social"}}
-[A *different* social danger!](#act2c_different_social)
+[*ДруЁй* социальной опасности!](#act2c_different_social)
 {{/if}}
 
 {{if _.a2_first_danger=="perv" || _.a2_first_danger=="meaning"}}
-[A *different* moral danger!](#act2c_different_moral)
+[*ДруЁй* моральной опасности!](#act2c_different_moral)
 {{/if}}
 
-[Did you check that punch before drinking?](#act2c_punch)
+[Ты проверил пунш перед тем, как еЁ выпить?](#act2c_punch)
 
 #act2c_louder
 
@@ -675,15 +681,15 @@ b: I SHALL WARN YOU ABOUT...
 
 `bb({body:"normal", mouth:"normal", eyes:"shock"})`
 
-b: Actually, Netflix & food delivery isn't quarantined enough! We'd still infect the delivery person!
+b: Если так подумать, Netflix и доставка еды - недостаточная изоляция! Мы всё равно заразили бы курьера!
 
 `bb({body:"one_up", mouth:"small"})`
 
-b: We need to move to the Canadian Yukon territories, and have our food delivered by drone!
+b: Нам нужно перебраться на территорию КанадскоЁ Юкона и доставлять нашу еду дроном!
 
 `bb({body:"two_up", mouth:"normal"})`
 
-b: And then they'd have to sterilize the drone to rid it of our SAD LUMP GERMS
+b: Тогда им придется стерилизовать беспилотник, чтобы избавить еЁ от нашеЁ СИНДРОМА ГРУСТНОЁ КОМОЧКА.
 
 `_.a2_attack_3 = "alone";`
 
@@ -716,13 +722,13 @@ sfx("gravel");
 
 (...501)
 
-b: The BIG DISGUSTING TRASH PERVERT shall be sentenced to 72 hours in one of those medieval public-humiliation devices
+b: БОЛЬШОЙ И ОТВРАТИТЕЛЬНЫЙ ИЗВРАЩЕНЕЦ должен быть приЁворён к 72 часам в средневековых устройствах публичноЁ унижения
 
-b: unless they're secretly *into* that sort of thing
+b: если конечно они втайне не *увлекаются* такими вещами
 
 `bb({body:"scream_a_1"})`
 
-b: because they're a BIG DISGUSTING TRASH PERVERT
+b: потому что они БОЛЬШИЕ И ОТВРАТИТЕЛЬНЫЕ ЧЁРТОВЫ ИЗВРАЩЕНЦЫ
 
 `_.a2_attack_3 = "bad";`
 
@@ -734,19 +740,19 @@ b: because they're a BIG DISGUSTING TRASH PERVERT
 
 `bb({body:"normal", mouth:"small", eyes:"suspect"})`
 
-b: BUTTERFLY EFFECT! You're using a non-biodegradable plastic cup?
+b: ЭФФЕКТ БАБОЧКИ! Ты используешь не биоразлагаемый пластиковый стаканчик?
 
 `bb({body:"two_up", mouth:"normal", eyes:"shock"})`
 
-b: BAM, A LANDFILL LEAKS POISON AND KILLS A KID
+b: БУМ, СВАЛКА ПРОТЕЧЁТ ЯДОМ И УБЬЁТ РЕБЁНКА
 
 `bb({body:"normal", mouth:"small", eyes:"suspect"})`
 
-b: You're sweating and your heart's pounding?
+b: Ты потеешь и твоё сердце колотится?
 
 `bb({body:"scream_a_1"})`
 
-b: BAM, YOU BANKRUPT OUR HEALTHCARE SYSTEM AND MILLIONS DIE
+b: БУМ, ТЫ ОБАНКРОТИШЬ НАШУ СИСТЕМУ ЗДРАВООХРАНЕНИЯ И МИЛЛИОНЫ УМРУТ
 
 `_.a2_attack_3 = "bad";`
 
@@ -758,15 +764,15 @@ b: BAM, YOU BANKRUPT OUR HEALTHCARE SYSTEM AND MILLIONS DIE
 
 `bb({body:"normal", mouth:"small", eyes:"angry"})`
 
-b: These pleasure-zombies will stumble towards you mumbling,
+b: Эти зомби будут натыкаться на тебя, бормоча,
 
 `bb({body:"normal", mouth:"normal", eyes:"shock"})`
 
-b: LIIIIIKES. LIIIIIIIIIIKES.
+b: ЛАААААЙКИ. ЛААААААААААЙКИ.
 
 `bb({body:"scream_a_1"})`
 
-b: Then they'll BITE YOU and turn you into a BRAINLESS BRO and/or THOUGHTLESS THOT!
+b: Тогда они УКУСЯТ ТЕБЯ и превратят в БЕЗМОЗГЛОЁ БРО и/или БЕЗМОЗГЛУЮ ^*ШЛЮХУ*^!
 
 `_.a2_attack_3 = "bad";`
 
@@ -778,15 +784,15 @@ b: Then they'll BITE YOU and turn you into a BRAINLESS BRO and/or THOUGHTLESS TH
 
 `bb({body:"scream_a_1"})`
 
-b: THE NAZIS ARE GOOSE-STEPPING BACK ON THE STREETS RIGHT NOW
+b: НАЦИСТЫ ПЕЧАТНЫМ ШАЁМ ВОЗВРАЩАЮТСЯ НА УЛИЦЫ ПРЯМО СЕЙЧАС
 
 `bb({body:"one_up", mouth:"smile", eyes:"happy"})`
 
-b: Saying, *good thing those 'good folks' slacked off with stuff like 'relaxing' and 'self-care'!*
+b: Ёворя, *хорошо, что эти "хорошие люди" не парились с такими вещами, как "отдых" и "забота о себе"!*
 
 `bb({body:"point", mouth:"smile", eyes:"happy_r"})`
 
-b: *Now our plans can go fourth, reich on schedule!*
+b: *Теперь наши планы могут идти лесом, рейх по расписанию!*
 
 `_.a2_attack_3 = "bad";`
 
@@ -798,15 +804,15 @@ b: *Now our plans can go fourth, reich on schedule!*
 
 `bb({body:"normal", mouth:"normal", eyes:"normal_r"})`
 
-b: Come to think about it, do we know if this building *has* a monoxide detector?!
+b: Если подумать, откуда мы знаем что в этом здании *вообще есть* детектор угарноЁ газа?!
 
 `bb({body:"two_up", mouth:"small", eyes:"normal"})`
 
-b: What if we're all being poisoned *RIGHT NOW?*
+b: Что если мы все отравлены *ПРЯМО СЕЙЧАС?*
 
 `bb({body:"scream_a_1"})`
 
-b: WE WOULDN'T EVEN SEE DEATH APPROACH. WE'D JUST STOP EXISTING FOREVER AND EVER AND EV--
+b: МЫ ДАЖЕ НЕ ЗАМЕТИЛИ БЫ ПРИБЛИЖЕНИЕ СМЕРТИ. МЫ ПРОСТО ПРЕКРАТИМ СУЩЕСТВОВАТЬ, НАВСЕГДА И В--
 
 `_.a2_attack_3 = "harm";`
 
@@ -818,15 +824,15 @@ b: WE WOULDN'T EVEN SEE DEATH APPROACH. WE'D JUST STOP EXISTING FOREVER AND EVER
 
 `bb({body:"normal", mouth:"normal", eyes:"sad"})`
 
-b: What if we're just *fundamentally incapable* of ever being loved, or loving another?
+b: Что, если мы вообще *принципиально неспособны* любить или быть любимыми?
 
 `bb({body:"normal", mouth:"small", eyes:"sad_r"})`
 
-b: What if something irreversibly broke inside of us a long time ago? Or never existed in us in the first place?
+b: Что, если что-то необратимо сломалось внутри нас давным-давно? Или вовсе никогда в нас не существовало?
 
 `bb({body:"scream_a_1"})`
 
-b: AHH WE'RE BROKEN! SO BROKEN SO BROKEN SO BROKE--
+b: ААА МЫ СЛОМАНЫ! ТАК СЛОМАНЫ ТАК СЛОМАНЫ ТАК СЛОМ--
 
 `_.a2_attack_3 = "alone";`
 
@@ -836,19 +842,19 @@ b: AHH WE'RE BROKEN! SO BROKEN SO BROKEN SO BROKE--
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"})`
 
-b: What if we're just *fundamentally rotten?*
+b: Что, если мы просто *окончательно прогнили?*
 
 `bb({body:"one_up", eyes:"sad"})`
 
-b: Others have an inner drive to do goodness, but we only do "good" out of guilt or shame, if at all.
+b: У других есть внутреннее стремление делать добро, но мы делаем "добро" только из чувства вины или стыда, если вообще делаем.
 
 `bb({body:"normal", mouth:"small", eyes:"sad_r"})`
 
-b: What if it's in our nature to hurt others? What if we can't be anything *other* than a burden to those close to us?
+b: Что, если мы признаны причинять боль другим? Что, если мы не можем быть ничем иным, как бременем для близких?
 
 `bb({body:"scream_a_1"})`
 
-b: AHH WE'RE BROKEN! SO BROKEN SO BROKEN SO BROKE--
+b: ААА МЫ СЛОМАНЫ! ТАК СЛОМАНЫ ТАК СЛОМАНЫ ТАК СЛОМ--
 
 `_.a2_attack_3 = "bad";`
 
@@ -858,15 +864,15 @@ b: AHH WE'RE BROKEN! SO BROKEN SO BROKEN SO BROKE--
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"})`
 
-b: I'm not being irrational. People *do* drug punch bowls. That is an actual thing that actually happens.
+b: Я не безрассудный. Люди *подмешивают* наркотики в миски с пуншем. Это действительно случается.
 
 `bb({eyes:"suspect"})`
 
-b: Human, does your head hurt? Are your limbs limp? I think we're dying.
+b: Человек, у тебя болит Ёлова? Твои конечности обмякли? Я думаю, мы умираем.
 
 `bb({body:"scream_a_1"})`
 
-b: AHHH WE'RE DYING! WE'RE DYING WE'RE DYING WE'RE DYI--
+b: АААА МЫ УМИРАЕМ! МЫ УМИРАЕМ МЫ УМИРАЕМ МЫ УМИРА--
 
 `_.a2_attack_3 = "harm";`
 
@@ -898,70 +904,72 @@ attack("20p", _.a2_attack_3);
 
 (...1001)
 
-h: F^AAACK^!
+h: Б^ЛЯЯТЬ^!
 
-h: F^ACK^ING F^ACK^-F^AKK^ITY *F^AAAAACK^*
+h: Е^БАН^ЫЙ Б^ЛЯДСКИЙ^-^ЁБАН^ЫЙ *Б^ЛЯЯЯЯТЬ^*
 
 `bb({body:"two_up", mouth:"smile", eyes:"happy"});`
 
-b: Yay, human! I'm so happy you can hear me again!
+b: Эй, человек! Я так рад, что ты снова слышишь меня!
 
 `bb({body:"normal", mouth:"small", eyes:"sad"})`
 
-b: Why were you ignoring me?
+b: Почему ты меня игнорировал?
 
 `hong({body:"facepalm"})`
 
-h: Holy ^hell^, you absolute moron.
+h: Твою ^мать^, ты абсолютный придурок.
 
 `hong({body:"facepalm_2"})`
 
-h: You know that Native American story?
+h: Ты знаешь эту индейскую легенду?
 
-h: "There are two wolves inside you, one is hope, one is despair, which wolf wins? The one you feed."
+h: "Внутри тебя два волка, один - это надежда, друЁй - это отчаяние, какой волк победит? Тот, котороЁ ты кормишь".
 
 ```
 hong({body:"facepalm_3"});
 bb({eyes:"normal"});
 ```
 
-h: I was trying to *starve* you, you sadistic ^asshole^!
+h: Я пытаюсь *заморить* тебя Ёлодом, ты, садисткая тварь!
 
 `hong({body:"smile", mouth:"smile"})`
 
-h: Screw it, I'll do positive affirmations instead.
+h: К чёрту, буду делать только позитивные заявления.
 
-h: *I am loved. I am good. I am smart. I am beautiful. I am special.*
+h: *Я любима. Я хороша. Я умная. Я красивая. Я особенная.*
 
 `bb({eyes:"suspect"});`
 
-[Golly, that's so narcissistic!](#act2d_narcissist)
+[Ужас, это так нарциссично!](#act2d_narcissist)
 
-[Y'know affirmations were *disproven?*](#act2d_disproven)
+[Ты знаешь, что заявления были *опровергнуты?*](#act2d_disproven)
 
-[omg don't credit random stories to indigenous folk](#act2d_racist)
+[омг не приписывай случайные истории коренным народам](#act2d_racist)
 
 # act2d_disproven
 
 `bb({body:"point", mouth:"normal", eyes:"closed"})`
 
-b: In fact, they actually *backfire* for people with low self-esteem! 
+b: Фактически, они на самом деле *имеют неприятные последствия* для людей с низкой самооценкой!
 
 `bb({body:"one_up", mouth:"small", eyes:"normal"})`
 
-b: It was a well-designed study – randomized controlled trial, experimenter was blinded as to who was in which group.
+b: Это было хорошо спроектированное исследование - рандомизированное контролируемое исследование.
+
+b: Экспериментатор не знал, кто был в какой группе.
 
 `bb({body:"two_up", mouth:"small", eyes:"normal_r"})`
 
-b: Results: if you already had low self-esteem, being asked to repeat affirmations makes you feel *worse* than if you'd said nothing at all!
+b: Результаты таковы: если у тебя уже была низкая самооценка, просьба повторить эти заявления заставляет тебя чувствовать себя *хуже*,
 
 `bb({body:"point", mouth:"normal", eyes:"closed"})`
 
-b: Wood 2009, Psychological Science. Look it up on Google Scholar, human,
+b: Wood 2009, Psychological Science. Посмотри на Google Scholar, человек,
 
 `bb({body:"scream_b_1"})`
 
-b: THEN STOP SPREADING UNSCIENTIFIC FAKE NEWS
+b: И ПРЕКРАЩАЙ РАСПРОСТРАНЯТЬ ЛЖИВЫЕ НОВОСТИ
 
 ```
 hong({body:"attacked"});
@@ -977,19 +985,21 @@ attack("10p", "bad");
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"})`
 
-b: You *need* to humbly see your own flaws in order to grow as a person!
+b: Тебе *нужно* смиренно видеть свои недостатки, чтобы расти как личность!
 
 `bb({body:"two_up", eyes:"suspect"})`
 
-b: You can't spray air freshener over a moldy room! Covering up your flaws makes you worse in the long run.
+b: Ты не можешь распылять освежитель воздуха над заплесневелой комнатой!
+
+b: Сокрытие своих недостатков делает тебя хуже в долЁсрочной перспективе.
 
 `bb({body:"chest", mouth:"smile", eyes:"closed"})`
 
-b: Thankfully, I, as your loyal guard-wolf, can alert you to your flaws. And right now, it's-
+b: К счастью, я, как твой верный сторож-волк, могу предупредить тебя о твоих недостатках. И сейчас, это-
 
 `bb({body:"scream_b_1"})`
 
-b: EVERYTHING. EVERYTHING IS WRONG
+b: ВСЁ. ВСЁ НЕПРАВИЛЬНО
 
 ```
 hong({body:"attacked"});
@@ -1005,15 +1015,17 @@ attack("10p", "bad");
 
 `bb({body:"normal", mouth:"normal", eyes:"suspect"})`
 
-b: Native Americans are *actual people*, not some "noble savages" you can namedrop to make your fortune-cookie advice more *exotic*.
+b: Коренные американцы - это *настоящие люди*, а не "блаЁродные дикари", как ты их называешь,
+
+b: чтобы сделать своё предсказание из печеньки более *экзотическим*.
 
 `bb({eyes:"suspect_r"})`
 
-b: You're reducing individual persons & complex cultures to a Hallmark card! That's "benevolent racism"! 
+b: Ты сводишь отдельных людей и сложные культуры к отличительной карточке! Это - "доброжелательный расизм"!
 
 `bb({body:"scream_b_1"})`
 
-b: STOP BEING RACIST YOU SQUINTY-EYED JERK
+b: ХВАТИТ БЫТЬ РАСИСТОМ, ТЫ, УЗКОГЛАЗЫЙ ПРИДУРОК
 
 ```
 hong({body:"attacked"});
@@ -1027,45 +1039,45 @@ attack("10p", "bad");
 
 # act2e
 
-h: ^ASSDAMMIT^.
+h: ^ЁБАНЫЙВРОТ^.
 
 `hong({body:"yell", mouth:"yell"})`
 
-h: You know what? You're *irrational*.
+h: Знаешь что? Ты *безрассуден*.
 
-h: Everyone knows emotions are irrational! Especially fear!
+h: Все знают, что эмоции безрассудны! Особенно страх!
 
 `hong({body:"facepalm_2"})`
 
-h: You're a useless evolutionary leftover, like my appendix or wisdom teeth!
+h: Ты бесполезный эволюционный остаток, как мой аппендикс или зуб мудрости!
 
 `hong({body:"yell", mouth:"yell"})`
 
-h: ^Hell^, this whole wolf metaphor is stupid! You're just a bunch of neuro-chemicals in my head.
+h: Да ^блять^, вся эта метафора о волке глупа! Ты просто куча нейрохимикатов в моей Ёлове.
 
 `hong({body:"cross", mouth:"cross"})`
 
-h: So why should I listen to a worthless, irrational, non-existent piece of ^shit^ like you?!
+h: Так почему я должен слушать бесполезный, безрассудный, несуществующий кусок ^Ёвна^, как ты?!
 
 `bb({eyes:"sad", MOUTH_LOCK:true})`
 
 b: ...
 
-[Jeez, human. That's really hurtful.](#act2e_hurtful)
+[Ёсподи, человек. Это реально обидно.](#act2e_hurtful)
 
-[I'm a feeling. Feelings are valid.](#act2e_valid)
+[Я - эмоция. Эмоции верны.](#act2e_valid)
 
-[Human, we're *both* "just chemicals."](#act2e_rational)
+[Человек, мы *оба* просто набор "нейрохимикатов"](#act2e_rational)
 
 # act2e_hurtful
 
 `bb({body:"chest"})`
 
-b: I'm *part* of you, you know. When you say that, you're hurting *yourself*.
+b: Я - *часть* тебя, ты же знаешь. Когда ты Ёворишь это, то наносишь вред *себе*.
 
 `bb({body:"scream_a_1"})`
 
-b: Why are you hitting yourself, human? STOP HITTING YOURSELF.
+b: Почему ты калечишь себя, человек? ПЕРЕСТАНЬ СЕБЯ КАЛЕЧИТЬ.
 
 ```
 music(null);
@@ -1082,23 +1094,23 @@ attack("10p", "harm");
 
 `bb({body:"normal", mouth:"normal", eyes:"normal_r"});`
 
-b: Your deepest motivations are dopamine, your richest joys are serotonin.
+b: Твои самые глубокие мотиваторы - это дофамин, твои самые яркие радости - это серотонин.
 
 `bb({body:"one_up"});`
 
-b: Your memories are synaptic weights, your reason is fault-prone electrical signals.
+b: Твои воспоминания - это синаптические веса, твои причины - это электрические сигналы, подверженные ошибкам.
 
 `bb({eyes:"normal", body:"normal"});`
 
-b: So if me being "just chemicals" means *I'm* irrational... then that means *you're* irrational!
+b: Так что, если я - "просто нейрохимикаты", значит *я* - безрассуден... значит, *ты* - безрассуден!
 
 `bb({body:"two_up", eyes:"shock"});`
 
-b: And if we're *both* irrational, then we'll *never* figure out how to be fulfilled and happy!
+b: И если мы *оба* иррациональны, значит мы *никогда* не поймём, как быть счастливыми!
 
 `bb({body:"scream_a_1"})`
 
-b: AHHH WE'RE BROKEN! SO BROKEN SO BROKEN SO BROKEN--
+b: ААА МЫ СЛОМАНЫ! ТАК СЛОМАНЫ ТАК СЛОМАНЫ ТАК СЛОМ--
 
 ```
 music(null);
@@ -1115,19 +1127,19 @@ attack("10p", "bad");
 
 `bb({body:"normal", mouth:"normal", eyes:"suspect"});`
 
-b: Hang on... "they" say that feelings are valid, that you should always accept your emotions.
+b: Подожди... "они" Ёворят, что чувства верны, что ты всегда должен принимать свои эмоции.
 
 `bb({eyes:"suspect_r"});`
 
-b: But "they" also say emotions are irrational, that emotions are not to be trusted.
+b: Но "они" также Ёворят, что эмоции безрассудны, что эмоциям нельзя доверять.
 
 `bb({eyes:"angry"});`
 
-b: Oh my gosh, "they" have been lying to us this whole time!
+b: О мой бог, "они" лгали нам всё это время!
 
 `bb({body:"scream_a_1"})`
 
-b: "THEY" FEED US CONTRADICTIONS TO MAKE US DEPENDENT ON THE SELF-HELP INDUSTRIAL COMPLEX
+b: "ОНИ" КОРМЯТ НАС ПРОТИВОРЕЧИЯМИ, ЧТОБЫ СДЕЛАТЬ НАС ЗАВИСИМЫМИ ОТ ПРОМЫШЛЕННОЁ КОМПЛЕКСА САМОПОМОЩИ
 
 ```
 music(null);
@@ -1146,62 +1158,62 @@ attack("10p", "harm");
 
 h: ...
 
-h: I hate this. God it hurts so much I *hate* this.
+h: Я ненавижу это. Боже, мне так больно, я *ненавижу* это.
 
-h: I can't appease you. I can't ignore you. I can't fight you. 
+h: Я не могу тебя успокоить. Я не могу тебя игнорировать. Я не могу с тобой бороться.
 
 `bb({eyes:"suspect"});`
 
-h: No matter what I do, I can't seem to get rid of yo--
+h: Неважно, что я делаю, я не могу избавиться от те--
 
 `bb({body:"cry_1"});`
 
-b: Well maybe you're NOT *SUPPOSED* TO GET RID OF ME.
+b: Ну, может быть, ты НЕ *ДОЛЖЕН* ИЗБАВЛЯТЬСЯ ОТ МЕНЯ.
 
 `bb({body:"cry_2"});`
 
-b: How do you think *I* feel, human?!
+b: Как ты думаешь, что *я* чувствую, человек?!
 
 `bb({body:"cry_4", mouth:"cry", eyes:"cry"})`
 
-b: I'm trying my best to be your guard-dog, but you keep seeing me as some Big Bad Wolf!
+b: Я стараюсь изо всех сил быть твоим сторожевым псом, но ты продолжаешь видеть во мне БольшоЁ ПлохоЁ Волка!
 
-b: So I try even *harder* to alert you to danger! *More* danger! *Different* danger!
+b: Поэтому я *усерднее* стараюсь предупредить тебя об опасности! *Большей* опасности! *ДруЁй* опасности!
 
 `bb({eyes:"cry_2"})`
 
-b: But no matter how hard I try to protect you, you *still* think I'm your enemy!
+b: Но как бы я ни старался тебя защитить, ты *всё равно* думаешь, что я твой враг!
 
 `bb({body:"cry_5"});`
 
-b: What am I doing wrong?!
+b: Что же я делаю не так?!
 
 `bb({body:"cry_2"});`
 
-b: I *know* I suck at my job. But I'm *trying*, human!
+b: Я *знаю*, что я плох в своей работе. Но я *стараюсь*, человек!
 
 `bb({body:"cry_3"});`
 
-b: ...I'm trying.
+b: ...Я стараюсь.
 
 `bb({body:"cry_6", mouth:"right", eyes:"cry_r_1"});`
 
-b: You don't have to heed my warnings, or agree with me, or even *like* me.
+b: Тебе не нужно прислушиваться к моим предупреждениям или соглашаться со мной, или даже *нравиться* тебе.
 
 `bb({eyes:"cry_r_2"});`
 
-b: I just... all I want is for you to be patient with me.
+b: Я просто... всё, что я хочу, это чтобы ты был терпелив со мной.
 
 `bb({eyes:"cry_r_3"});`
 
-b: I just want for you to sit with me for a while, instead of turning away and--
+b: Я просто хочу, чтобы ты посидел со мной немноЁ, вместо тоЁ, чтобы отвернуться и--
 
 ```
 bb({eyes:"cry_r_4"});
 hong({body:"listen"});
 ```
 
-r: Hey.
+r: Хэй.
 
 ```
 hong({body:"look"});
@@ -1218,21 +1230,21 @@ publish("act2",["party_hunter",2]);
 Game.WORDS_HEIGHT_BOTTOM = 230;
 ```
 
-r: Looks like you're caught in a fight with yourself, kid.
+r: Похоже, ты пытаешься бороться с самой собой, малышка.
 
 ```
 publish("act2",["party_hunter",3]);
 publish("act2",["party_hong",13]);
 ```
 
-h2: Was it that obvious?
+h2: Это было так очевидно?
 
 ```
 publish("act2",["party_hunter",4]);
 publish("act2",["party_hong",14]);
 ```
 
-r: You were, uh, mumbling at your hoodie about {{_.a2_hoodie_callback}} or something.
+r: Ты, эм, бормотала что-то своей толстовке о {{_.a2_hoodie_callback}} или что-то вроде.
 
 ```
 publish("act2",["party_hunter",13]);
@@ -1248,7 +1260,7 @@ setTimeout(function(){
 },801);
 ```
 
-h2: oh god i'm such a mess.
+h2: Боже, я такая дура.
 
 ```
 publish("act2",["party_hunter",7]);
@@ -1256,7 +1268,7 @@ publish("act2",["party_hong",18]);
 sfx("squeak");
 ```
 
-r: Hey. You're not alone, friend. Anxiety's super common.
+r: Эй. Ты не одна, подружка. Тревожность - совсем нормальная вещь.
 
 ```
 publish("act2",["party_hunter",5]);
@@ -1264,38 +1276,38 @@ publish("act2",["party_hong",19]);
 ```
 
 {{if _.act1_ending=="fight"}}
-r: Heck, just yesterday, I heard someone on campus had a nervous breakdown and smashed their phone!
+r: Чёрт, да мне вчера сказали, что у коЁ-то в университетском Ёродке был нервный срыв и тот разбил свой телефон!
 {{/if}}
 
 {{if _.act1_ending=="flight"}}
-r: Heck, just yesterday, I heard someone curled up into an armadillo ball and cried in public!
+r: Чёрт, да мне вчера сказали, как кто-то свернулся в клубок, как броненосец, и плакал на улице!
 {{/if}}
 
 ```
 publish("act2",["party_hunter",2]);
 ```
 
-r: Listen: I know what it's like to have that animal in your head.
+r: Listen: Слушай, я знаю, каково слышать это животное в своей Ёлове.
 
 ```
 publish("act2",["party_hunter",8]);
 ```
 
-r: We *all* do. That's why I throw these parties every weekend, to forget our worries, forget that animal.
+r: Мы *все* слышим. Вот почему я устраиваю эти вечеринки каждые выходные, чтобы забыть наши заботы, забыть это животное.
 
 ```
 publish("act2",["party_hunter",9]);
 publish("act2",["party_hong",20]);
 ```
 
-h2: but my anxiety...
+h2: но моя тревожность...
 
 ```
 publish("act2",["party_hunter",2]);
 publish("act2",["party_hong",21]);
 ```
 
-r: Don't worry, kid. I used to be like you. But then I found a little trick to get that negative voice to shut up forever...
+r: Не волнуйся, малышка. Я был как ты. Но потом я нашла маленький трюк, который заставил этот негативный Ёлос замолчать навсегда...
 
 ```
 publish("act2",["party_hunter",3]);
@@ -1325,14 +1337,15 @@ sfx("rustle2");
 publish("act2",["party_hunter",11]);
 ```
 
-r: My own specialty blend. It's a bit stronger than... well, anything legal really.
+r: Моя особая смесь. Это немноЁ мощнее, чем... ну, всё легальное.
+
 
 ```
 publish("act2",["party_hunter",12]);
 publish("act2",["party_hong",24]);
 ```
 
-r: Bottoms up, ^bee-yatch^!
+r: Пей до дна, ^сучкаа^!
 
 ```
 hong({body:"hold"});
@@ -1345,27 +1358,27 @@ publish("hp_show");
 
 (...3500)
 
-[Oh my God.](#act2g_1) `Game.OVERRIDE_CHOICE_LINE=true`
+[О Ёсподи.](#act2g_1) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[This is a bad coping mechanism.](#act2g_2) `Game.OVERRIDE_CHOICE_LINE=true`
+[Это плохой способ совладания.](#act2g_2) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[Don't take drinks from strangers.](#act2g_3) `Game.OVERRIDE_CHOICE_LINE=true`
+[Не пей напитки от незнакомцев.](#act2g_3) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act2g_1
 
-b: O--
+b: О--
 
 (#act2g)
 
 # act2g_2
 
-b: T--
+b: Э--
 
 (#act2g)
 
 # act2g_3
 
-b: D--
+b: Н--
 
 (#act2g)
 
@@ -1384,34 +1397,34 @@ hong({body:"forward", mouth:"forward"});
 bb({body:"frazzled", mouth:"frazzled", eyes:"frazzled"});
 ```
 
-h: Mmm, what an exquisite palette!
+h: Ммм, что за изысканная палитра!
 
-h: A full-bodied flavor of "shut your mind up," with a subtle aftertaste of "never feel anything ever again"!
+h: Насыщенный аромат "заткнись" с тонким послевкусием "никогда больше ничеЁ не чувствуй"!!
 
-b: This is bad, human. This is really, really bad.
+b: Это плохо, человек. Это очень, очень плохо.
 
-[This is *actually* how addiction starts.](#act2h_opt1) `Game.OVERRIDE_CHOICE_LINE=true`
+[Зависимость начинается *именно так*.](#act2h_opt1) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[I *knew* the host was deeply messed up!](#act2h_opt3) `Game.OVERRIDE_CHOICE_LINE=true`
+[Я *знал*, что с ней что-то не так!](#act2h_opt3) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[Also, they could have drugged that!](#act2h_opt2) `Game.OVERRIDE_CHOICE_LINE=true`
+[Вообще-то, она могла отравить это!](#act2h_opt2) `Game.OVERRIDE_CHOICE_LINE=true`
 
 
 # act2h_opt1
 
-b: This is *actu*--
+b: Зависимость нач--
 
 (#act2h)
 
 # act2h_opt2
 
-b: Also, they co--
+b: Вообще-то, он мо--
 
 (#act2h)
 
 # act2h_opt3
 
-b: I *knew* th--
+b: Я *знал*, чт--
 
 (#act2h)
 
@@ -1430,17 +1443,17 @@ hong({body:"back", mouth:"back"});
 bb({body:"panicked", mouth:"panicked", eyes:"panicked"});
 ```
 
-h: Delicious, *and* cheaper than therapy!
+h: Слаще *и* дешевле, чем психотерапия!
 
-b: HUMAN PLEASE STOP
+b: ЧЕЛОВЕК ПОЖАЛУЙСТА ОСТАНОВИСЬ
 
-h: Hehehe!
+h: Хехехе!
 
-h: And what are *you* gonna do about it, ^asshole^?
+h: И что *ты* теперь сделаешь, ^мудак^?
 
-b: I'm so sorry, human.
+b: Прости меня, человек.
 
-b: I'm going to have to use my SPECIAL ATTACK
+b: Я вынужден использовать свою ОСОБУЮ АТАКУ
 
 ```
 bb({body:"special_a"});
@@ -1467,9 +1480,9 @@ hong({body:"forward", mouth:"forward"});
 sfx("charging");
 ```
 
-h: What's this ^crap^?
+h: Что это за ^хрень^?
 
-h: You're gonna yap more stupid *words* at me to--
+h: Ты будешь бросаться в меня ещё более глупыми *словами*, пока--
 
 ```
 bb({body:"special_c"});
@@ -1505,45 +1518,45 @@ setTimeout(function(){
 
 (...2500)
 
-h: WHAT THE ^HELL^ WAS THAT
+h: ЧТО ЭТО БЫЛА ЗА ^ХУЙНЯ^
 
-b: I'm sorry. I needed to show you the consequences.
+b: Прости. Я должен был показать тебе последствия.
 
 {{if _.SPECIAL_ATTACK=="harm"}}
-h: I COULD *SEE* MY OWN CORPSE. I COULD *FEEL* THE SENSATION OF BEING ACTUALLY DEAD.
+h: Я МОГЛА *ВИДЕТЬ* СВОЙ ТРУП. Я МОГЛА *ЧУВСТВОВАТЬ*, КАКОВО БЫТЬ МЁРТВОЙ ПО-НАСТОЯЩЕМУ.
 {{/if}}
 
 {{if _.SPECIAL_ATTACK=="alone"}}
-h: I COULD *SEE* EVERYONE'S LOOK OF DISGUST. I COULD *HEAR* ALL THE THINGS THEY SAID.
+h: Я МОГЛА *ВИДЕТЬ* ИХ ОТВРАЩЕНИЕ. Я МОГЛА *СЛЫШАТЬ* ВСЁ, ЧТО ОНИ ВСЕ ЁВОРЯТ.
 {{/if}}
 
 {{if _.SPECIAL_ATTACK=="bad"}}
-h: I COULD *HEAR* THE CRUNCHING OF RIBS. I COULD *TASTE* THE BLOOD IN THE AIR.
+h: Я МОГЛА *СЛЫШАТЬ* ХРУСТ РЁБЕР. Я МОГЛА *ЧУВСТВОВАТЬ* КРОВЬ В ВОЗДУХЕ.
 {{/if}}
 
-b: I'm sorry, human.
+b: Прости, человек.
 
-n: *FINISH THEM*
+n: *ДОБЕЙ ЕЁ*
 
-[{FIGHT: Punch the host.}](#act2j_fight) `Game.OVERRIDE_CHOICE_LINE=true`
+[{БОРЬБА: Ударить хозяина вечеринки.}](#act2j_fight) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[{FLIGHT: Let's get out of here.}](#act2j_flight) `Game.OVERRIDE_CHOICE_LINE=true`
+[{ОТСТУПЛЕНИЕ: Давай выбираться отсюда.}](#act2j_flight) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act2j_fight
 
 `bb({ eyes:"angry" });`
 
-b: That psychopath was taking advantage of you.
+b: Эта психопатка использовала тебя в своих интересах.
 
-b: They were trying to corrupt you, make you as messed up as they are!
+b: Она пыталась испортить тебя, запутать тебя так, как она запуталась сама!
 
 `bb({ body:"yell_angry_1" });`
 
-b: Punch that jerk! Knock their friggin' lights out!
+b: Ударь эту уродку! Выбей из неё дурь!
 
 `bb({ body:"final_1" });`
 
-b: PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THE--
+b: УДАРЬ ЕЁ УДАРЬ ЕЁ УДАРЬ ЕЁ УДАРЬ ЕЁ УДАРЬ ЕЁ УДАРЬ ЕЁ УДАРЬ ЕЁ УДАРЬ Е--
 
 `_.a2_ending = "fight";`
 
@@ -1551,15 +1564,15 @@ b: PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM 
 
 # act2j_flight
 
-b: I *knew* all these partygoers were deeply messed up. They all dull their pain with horrible things!
+b: Я *знал*, что все эти тусовщики глубоко испорчены. Все они притупляют свою боль ужасными вещами!
 
 `bb({ body:"yell_1" });`
 
-b: And they're tricking you into doing the same thing! They're corrupting you! We need to get out!
+b: И они заставляют тебя делать то же самое! Они портят тебя! Нам нужно бежать!
 
 `bb({ body:"final_1" });`
 
-b: GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OU--
+b: УБИРАЙСЯ ОТСЮДА УБИРАЙСЯ ОТСЮДА УБИРАЙСЯ ОТСЮДА УБИРАЙСЯ ОТСЮДА УБИРАЙСЯ ОТ--
 
 `_.a2_ending = "flight";`
 
@@ -1588,7 +1601,7 @@ publish("act2",["party_hunter",14]);
 Game.WORDS_HEIGHT_BOTTOM = 230;
 ```
 
-r: You alright, kid?
+r: Ты в подрядке, малышка?
 
 `publish("act2",["party_hunter",13]);`
 
@@ -1620,7 +1633,7 @@ publish("act2",["dee",6]);
 publish("act2",["dum",6]);
 ```
 
-r: Y-you...
+r: Т-ты...
 
 ```
 publish("act2",["party_hunter",23]);
@@ -1630,22 +1643,22 @@ publish("act2",["dum",5]);
 music('party1', {volume:0.6, fade:6});
 ```
 
-r: are *kinky*.
+r: ...*странная*.
 
-r: I like that. Come to my party next weekend, cutie.
+r: Мне это нравится. Приходи на вечеринку в следующие выходные, милашка.
 
 ```
 publish("act2",["party_hunter",19]);
 publish("act2",["party_hong",36]);
 ```
 
-h2: ok bye, ciao, adios, au revoir
+h2: хорошо, пока, ciao, adios, au revoir
 
-r: The animal might have won today, but come back, and I'll mix something even stronger for you!
+r: Может, животное и выиграло битву сегодня, но ты возвращайся - и мы намешаем тебе что-нибудь покрепче!
 
 h2: sayōnara, auf wiedersehen, zài jiàn, shalom
 
-r: You and me, kid, we'll show that beast who's boss!
+r: Ты и я, малыш, покажем зверю, кто здесь хозяин!
 
 (#act2k_end)
 
@@ -1653,23 +1666,23 @@ r: You and me, kid, we'll show that beast who's boss!
 
 `publish("act2",["party_hong",36]);`
 
-h2: ok sorry i have to run
+h2: ок извини мне нужно бежать
 
 `publish("act2",["party_hunter",16]);`
 
-r: ^Damn^ it. The animal won today, huh?
+r: Что б его. Животное сегодня победило, ха?
 
 `publish("act2",["party_hunter",15]);`
 
-h2: no no, just, uh, gotta run a marathon. gotta go fast.
+h2: не не, просто, эм, нужно бежать марафон. нужно бежать быстро.
 
 `publish("act2",["party_hunter",19]);`
 
-r: Come to my party next weekend, cutie. I'll mix something even stronger for you.
+r: Приходи на вечеринку в следующие выходные, милашка. Я намешаю что-нибудь посильнее для тебя.
 
-h2: ok thanks gonna run run run run run
+h2: ок спасибо нужно бежать бежать бежать бежать
 
-r: You and me, kid, we'll show that beast who's boss!
+r: Ты и я, малыш, покажем зверю, кто здесь хозяин!
 
 (#act2k_end)
 
@@ -1692,13 +1705,13 @@ sfx("whoosh");
 
 (...1000)
 
-b: Human! Are you okay?!
+b: Человек! Ты в порядке?!
 
 ```
 publish("act2", ["act2_end","next"]);
 ```
 
-b: Gosh, that was *close.* We really could've--
+b: Боже, это было *близко.* Мы действительно могли--
 
 ```
 Game.clearText();
@@ -1716,11 +1729,11 @@ sfx("hit");
 
 (...1000)
 
-h: I'm coming back to the party next weekend.
+h: Я вернусь на вечеринку в следующие выходные.
 
-h: The next time we fight, I'm not just going to *defeat* you...
+h: В следующий раз, когда мы будем сражаться, я собираюсь не просто *победить* тебя...
 
-h: I'm going to ^fuck^ing *kill* you.
+h: Я собираюсь ^нахуй^ тебя *убить*.
 
 ```
 Game.clearText();
