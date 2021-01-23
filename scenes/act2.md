@@ -93,7 +93,7 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",3]);
 ```
 
-a: Yeah, totally fake. Who would fall for that and retweet it? Ага, абсолютная брехня. Кто вообще поверит и ретвитнет это?
+a: Ага, абсолютная брехня. Кто вообще поверит и ретвитнет это?
 
 ```
 publish("act2",["dum",2]);
