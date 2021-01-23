@@ -1257,7 +1257,7 @@ bb({eyes:"fear", mouth:"normal"});
 Game.FORCE_TEXT_DURATION = 2000;
 ```
 
-b: ♫ И ПОТНЫЙ ^*ХУЙ*^, КОТОРЫЙ БОЛЬШЕ МЕНЯ!- 
+b: ♫ И ПОТНЫЙ ^*ХУЙ*^ ДЛЯ МЕНЯ!- 
 
 (...1000)
 
@@ -1276,7 +1276,7 @@ bb({body:"normal", mouth:"normal", eyes:"normal"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: Суть в том, что мы - манипуляторы.
+b: Короче, суть в том, что мы - манипуляторы.
 
 ```
 hong({mouth:"shock", eyes:"shock"});
