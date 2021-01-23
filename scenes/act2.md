@@ -67,7 +67,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: И не Говори!
+a: И не говори!
 
 (#act2-preamble-end)
 
