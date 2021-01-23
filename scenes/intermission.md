@@ -20,9 +20,9 @@ n2: СТРАХИ ЭТОГО РАУНДА:
 
 i: #harm# *ВРЕД:* {{_.INTERMISSION_STAGE==1 ? _.attack_harm_ch1 : _.attack_harm_ch2}}
 
-i: #alone# *БЫТЬ НЕЛЮБИМЫМ:* {{_.INTERMISSION_STAGE==1 ? _.attack_alone_ch1 : _.attack_alone_ch2}}
+i: #alone# *НЕЛЮБОВЬ:* {{_.INTERMISSION_STAGE==1 ? _.attack_alone_ch1 : _.attack_alone_ch2}}
 
-i: #bad# *БЫТЬ ПЛОХИМ ЧЕЛОВЕКОМ:* {{_.INTERMISSION_STAGE==1 ? _.attack_bad_ch1 : _.attack_bad_ch2}}
+i: #bad# *РЕПУТАЦИЯ:* {{_.INTERMISSION_STAGE==1 ? _.attack_bad_ch1 : _.attack_bad_ch2}}
 
 
 ```
