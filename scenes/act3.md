@@ -977,7 +977,7 @@ publish("act3",["roofhunter",32]);
 publish("act3",["roofhunter",33]);
 ```
 
-r: Они что, заперли дверь?
+r: Она что, заперла дверь?
 
 ```
 Game.clearAll();
