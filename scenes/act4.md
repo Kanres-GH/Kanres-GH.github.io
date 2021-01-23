@@ -215,7 +215,7 @@ hong({body:"hold", eyes:"normal", mouth:"normal"});
 bb({eyes:"normal"});
 ```
 
-h: So what the ^hell^ was the moral of this story? Так какова, чёрт возьми, мораль этой истории?
+h: Так какова, чёрт возьми, мораль этой истории?
 
 `hong({body:"one_up", eyes:"annoyed"})`
 
