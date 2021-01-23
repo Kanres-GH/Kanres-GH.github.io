@@ -406,7 +406,8 @@ n: УДАЧИ
 
 `music('battle', {volume:0.5})`
 
-n: РАУНД ПЕРВЫЙ:  *В БОЙ!*
+n: РАУНД ПЕРВЫЙ:
+*В БОЙ!*
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"});`
 
