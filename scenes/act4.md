@@ -1580,7 +1580,7 @@ hong({eyes:"surprise_l"});
 bb({eyes:"normal"});
 ```
 
-a: И-извините...
+a: И-извини...
 
 ```
 Game.clearText();
