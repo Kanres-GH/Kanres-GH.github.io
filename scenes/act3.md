@@ -410,7 +410,7 @@ hong({ body:"normal", mouth:"angry", eyes:"angry" });
 bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });
 ```
 
-h: Я уже видел такое видео на YouTube.
+h: Я уже видела такое видео на YouTube.
 
 (#act3_bad_2)
 
