@@ -142,7 +142,7 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",1]);
 ```
 
-a: Обоснуй этот тезис.
+a: Обоснуй это.
 
 ```
 publish("act2",["dum",0]);
