@@ -31,7 +31,7 @@ Game.FORCE_CANT_SKIP = false;
 Game.CLICK_TO_ADVANCE = true;
 ```
 
-n5: (Игра сохранена! Её можно закрыть и продолжить позже)
+n5: Игра сохранена! Её можно закрыть и продолжить позже
 
 ```
 Game.clearAll();
